@@ -1,0 +1,14 @@
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\bin\Debug\net8.0\Free_poin_PBO.exe
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\bin\Debug\net8.0\Free_poin_PBO.deps.json
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\bin\Debug\net8.0\Free_poin_PBO.runtimeconfig.json
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\bin\Debug\net8.0\Free_poin_PBO.dll
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\bin\Debug\net8.0\Free_poin_PBO.pdb
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\obj\Debug\net8.0\Free_poin_PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\obj\Debug\net8.0\Free_poin_PBO.AssemblyInfoInputs.cache
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\obj\Debug\net8.0\Free_poin_PBO.AssemblyInfo.cs
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\obj\Debug\net8.0\Free_poin_PBO.csproj.CoreCompileInputs.cache
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\obj\Debug\net8.0\Free_poin_PBO.dll
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\obj\Debug\net8.0\refint\Free_poin_PBO.dll
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\obj\Debug\net8.0\Free_poin_PBO.pdb
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\obj\Debug\net8.0\Free_poin_PBO.genruntimeconfig.cache
+C:\Users\matte\source\repos\Free_poin_PBO\Free_poin_PBO\obj\Debug\net8.0\ref\Free_poin_PBO.dll

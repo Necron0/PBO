@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Free_poin_PBO/1.0.0": {
+        "runtime": {
+          "Free_poin_PBO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Free_poin_PBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
